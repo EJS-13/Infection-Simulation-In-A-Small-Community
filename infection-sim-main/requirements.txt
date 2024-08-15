@@ -1,0 +1,7 @@
+pymongo
+pandas
+xlrd==1.2.
+openpyxl
+geopandas
+numpy
+mesa-geo~=0.7
